@@ -1,0 +1,254 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\ApplicationInsights.config
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\csc.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\csc.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\csc.rsp
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\csi.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\csi.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\csi.rsp
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.AppContext.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.Collections.Immutable.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.Console.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.IO.Compression.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.IO.FileSystem.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.IO.Pipes.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.Security.AccessControl.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.Security.Claims.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.Threading.Thread.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.ValueTuple.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.Xml.XPath.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\vbc.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\vbc.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\vbc.rsp
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\VBCSCompiler.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\roslyn\VBCSCompiler.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\gunluk.dll.config
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\gunluk.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\gunluk.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Antlr3.Runtime.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\EntityFramework.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\EntityFramework.SqlServer.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.AI.Web.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.AI.WindowsServer.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.ApplicationInsights.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.Owin.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.Owin.Security.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.Owin.Security.Google.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.Web.Infrastructure.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Newtonsoft.Json.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Owin.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Net.Http.Formatting.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Web.Helpers.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Web.Http.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Web.Http.Owin.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Web.Http.WebHost.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Web.Mvc.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Web.Optimization.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Web.Razor.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Web.WebPages.Deployment.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Web.WebPages.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Web.WebPages.Razor.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\WebGrease.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Antlr3.Runtime.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.AI.Web.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.AI.WindowsServer.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.ApplicationInsights.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.Owin.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.Owin.Security.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.Owin.Security.Google.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Newtonsoft.Json.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Net.Http.Formatting.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Web.Helpers.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Web.Http.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Web.Http.WebHost.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Web.Mvc.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Web.Optimization.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Web.Razor.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Web.WebPages.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Web.WebPages.Deployment.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Web.WebPages.Razor.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\EntityFramework.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\EntityFramework.SqlServer.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\bin\System.Web.Http.Owin.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\obj\Debug\gunluk.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\gunluk\gunluk\obj\Debug\gunluk.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\gunluk\gunluk\obj\Debug\gunluk.csprojResolveAssemblyReference.cache
+E:\Eski Calismalar\gunluk\gunluk\bin\ApplicationInsights.config
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\csc.exe
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\csc.exe.config
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\csc.rsp
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\csi.exe
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\csi.exe.config
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\csi.rsp
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.AppContext.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.Collections.Immutable.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.Console.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.Diagnostics.Process.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.IO.Compression.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.IO.FileSystem.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.IO.Pipes.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.Reflection.Metadata.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.Security.AccessControl.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.Security.Claims.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.Threading.Thread.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.ValueTuple.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.Xml.XPath.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\vbc.exe
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\vbc.exe.config
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\vbc.rsp
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\VBCSCompiler.exe
+E:\Eski Calismalar\gunluk\gunluk\bin\roslyn\VBCSCompiler.exe.config
+E:\Eski Calismalar\gunluk\gunluk\bin\gunluk.dll.config
+E:\Eski Calismalar\gunluk\gunluk\bin\gunluk.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\gunluk.pdb
+E:\Eski Calismalar\gunluk\gunluk\bin\Antlr3.Runtime.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\EntityFramework.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\EntityFramework.SqlServer.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.AI.DependencyCollector.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.AI.Web.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.AI.WindowsServer.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.ApplicationInsights.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.Owin.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.Owin.Security.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.Owin.Security.Google.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.Web.Infrastructure.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Newtonsoft.Json.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Owin.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Net.Http.Formatting.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Web.Helpers.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Web.Http.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Web.Http.Owin.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Web.Http.WebHost.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Web.Mvc.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Web.Optimization.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Web.Razor.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Web.WebPages.Deployment.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Web.WebPages.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Web.WebPages.Razor.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\WebGrease.dll
+E:\Eski Calismalar\gunluk\gunluk\bin\Antlr3.Runtime.pdb
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.AI.DependencyCollector.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.AI.Web.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.AI.WindowsServer.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.ApplicationInsights.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.Owin.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.Owin.Security.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.Owin.Security.Google.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\Newtonsoft.Json.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Net.Http.Formatting.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Web.Helpers.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Web.Http.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Web.Http.WebHost.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Web.Mvc.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Web.Optimization.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Web.Razor.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Web.WebPages.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Web.WebPages.Deployment.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Web.WebPages.Razor.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\EntityFramework.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\EntityFramework.SqlServer.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Eski Calismalar\gunluk\gunluk\bin\System.Web.Http.Owin.xml
+E:\Eski Calismalar\gunluk\gunluk\obj\Debug\gunluk.csprojAssemblyReference.cache
+E:\Eski Calismalar\gunluk\gunluk\obj\Debug\gunluk.csproj.CoreCompileInputs.cache
+E:\Eski Calismalar\gunluk\gunluk\obj\Debug\gunluk.csproj.CopyComplete
+E:\Eski Calismalar\gunluk\gunluk\obj\Debug\gunluk.dll
+E:\Eski Calismalar\gunluk\gunluk\obj\Debug\gunluk.pdb

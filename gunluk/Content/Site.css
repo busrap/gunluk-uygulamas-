@@ -1,0 +1,61 @@
+﻿html, body, .container-fluid{
+    height:100%;
+}
+
+.containerRow{
+    height:100%;
+}
+
+#menuPanel{
+    padding-top:50px;
+    overflow:auto;
+    background-color:aliceblue;
+}
+
+.icerikSutun{
+    padding-top:50px;
+    height:100%;
+    background-color:lightgray;
+}
+
+#icerikPanel{
+    display:table;
+    height:100%;
+    width:100%;
+}
+
+.baslikContainer{
+    display:table-row;
+}
+
+.txtBaslikContainer{
+    padding:5px 0px;
+}
+
+.icerikContainer{
+    display:table-row;
+    height:100%;
+}
+
+.txtIcerikContainer{
+    height:100%;
+    padding:5px 0px;
+}
+
+.buttonContainer{
+    padding:5px 0 10px 0;
+    text-align:right;
+}
+
+#txtIcerik{
+    height:100%;
+}
+
+.statusDiv{
+    float:left;
+    padding-top:5px;
+}
+
+#statusMessage{
+    display:none;
+}

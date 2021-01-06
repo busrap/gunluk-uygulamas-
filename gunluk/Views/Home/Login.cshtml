@@ -1,0 +1,168 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+     
+    <meta name="viewport" content="width=device-width" />
+
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+    <link href="~/Content/Login.css" rel="stylesheet" />
+    
+    <title>Günlük Giriş</title>
+</head>
+<body>
+   
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3">
+                <div class="panel panel-login">
+                    <div class="panel-heading">
+                        <div class="row">
+                            <div class="col-xs-6">
+                                <a href="#" class="active" id="login-form-link">
+                                    Giriş
+                                </a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="#" id="register-form-link">
+                                    Kayıt Ol
+                                </a>
+                            </div>
+                        </div>
+                        <hr />
+                    </div>
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <form id="login-form" action="#" method="post" role="form" style="display:block;">
+                                    <div class="alert alert-success hidden" id="login-success-alert-container">
+                                        Başarıyla giriş yaptınız. Şimdi günlüğünüze yönlendiriliyorsunuz...
+                                    </div>
+                                    <div class="alert alert-danger hidden" id="login-error-alert-container">
+                                        <ul id="login-error-list"></ul>
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="text" name="username" id="username" tabindex="1" class="form-control" placeholder="Kullanıcı Adı" value="" />
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="password" name="password" id="password" tabindex="2" class="form-control" placeholder="Parola" />
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="row">
+                                            <div class="col-sm-6 col-sm-offset-3">
+                                                <input type="button" name="login-submit" id="login-submit" tabindex="4" class="form-control btn btn-login" value="Giriş Yap" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                                <form id="register-form" action="#" method="post" role="form" style="display:none;">
+                                    <div class="alert alert-success hidden" id="register-success-alert-container">
+                                        Kaydınız başarıyla gerçekleştirilmiştir. Artık giriş yapabilirsiniz...
+                                    </div>
+                                    <div class="alert alert-danger hidden" id="register-error-alert-container">
+                                        <ul id="register-error-list"></ul>
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="email" name="email" id="remail" tabindex="1" class="form-control" placeholder="E-mail Adresi" value="" />
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="password" name="password" id="rpassword" tabindex="2" class="form-control" placeholder="Parola" />
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="password" name="confirm-password" id="rconfirm-password" tabindex="2" class="form-control" placeholder="Parolayı Doğrula" />
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="row">
+                                            <div class="col-sm-6 col-sm-offset-3">
+                                                <input type="button" name="register-submit" id="register-submit" tabindex="4" class="form-control btn btn-register" value="Kayıt Ol" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="~/Scripts/jquery-3.1.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script>
+        $("#login-submit").click(function () {
+            $.ajax({
+                method: "POST",
+                url: "/Token",
+                data: {
+                    "grant_type": "password",
+                    "username": $("#username").val(),
+                    "password": $("#password").val()
+                },
+                eror: function (xhr, status, error) {
+                    var result = JSON.parse(xhr, responseText);
+                    $("#login-error-list").html("");
+                    $("#login-error-list").append('<li>' + result.error_description + '</li>');
+                    $("#login-error-alert-container").removeClass("hidden");
+                },
+                success: function (data, status, xhr) {
+                    var result = JSON.parse(xhr.responseText);
+                    $("#login-error-alert-container").addClass("hidden");
+                    $("#login-success-alert-container").removeClass("hidden");
+                    $("#username").val("");
+                    $("password").val("");
+                    sessionStorage.tokenKey = result.access_token;
+                    setTimeout(function () {
+                        window.location.href = "/";
+                    }, 1000);
+                }
+            });
+
+        });
+
+        $("#register-submit").click(function () {
+            $.ajax({
+                method: "POST",
+                url: "/api/Account/Register",
+                data: {
+                    "Email": $("#remail").val(),
+                    "Password": $("#rpassword").val(),
+                    "ConfirmPassword": $("#rconfirm-password").val()
+                },
+                error: function (xhr, status, error) {
+                    var result = JSON.parse(xhr.responseText);
+                    $("#register-error-list").html("");
+                    for (var k in result.ModelState) {
+                        $("#register-error-list").append('<li>' + result.ModelState[k] + '</li>');
+
+
+                    }
+                    $("#register-error-alert-container").removeClass("hidden");
+
+                },
+                success: function () {
+                    $("#register-success-alert-container").removeClass("hidden");
+                    $("#register-error-alert-container").addClass("hidden");
+                    $("#remail").val("");
+                    $("#rpassword").val("");
+                    $("#rconfirm-password").val("");
+                }
+
+            });
+        });
+
+        $("#login-form-link").click(function (e) {
+            $("#login-form").delay(100).fadeIn(100);
+            $("#register-form").fadeOut(100);
+            $("#login-form-link").removeClass("active");
+            $(this).addClass("active");
+            e.preventDefault();
+        })
+    </script>
+</body>
+</html>
